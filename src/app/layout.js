@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
           <Sidebar></Sidebar>
           
 
-          <div className="h-full bg-blue-200 flex-grow">
+          <div className="h-full bg-blue-100 flex-grow">
             <h1 className="text-black">home page</h1>
             {children}
             </div>
